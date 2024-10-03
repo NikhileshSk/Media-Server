@@ -21,18 +21,6 @@
   ],
   "history": [
     {
-      "title": "KishKindha Kaandam",
-      "videoLink": "https://www.youtube.com/embed/n30gf3Gz4Ok",
-      "timeStamp": "09/23/2024",
-      "id": 11
-    },
-    {
-      "title": "ARM",
-      "videoLink": "https://www.youtube.com/embed/B2UBMTA57JI",
-      "timeStamp": "09/24/2024",
-      "id": 12
-    },
-    {
       "title": "ARM",
       "videoLink": "https://www.youtube.com/embed/B2UBMTA57JI",
       "timeStamp": "09/24/2024",
@@ -61,6 +49,18 @@
       "videoLink": "https://www.youtube.com/embed/B2UBMTA57JI",
       "timeStamp": "09/25/2024",
       "id": 17
+    },
+    {
+      "title": "adios amigos",
+      "videoLink": "https://www.youtube.com/embed/oi-ABOheUpQ",
+      "timeStamp": "10/03/2024",
+      "id": 18
+    },
+    {
+      "title": "ARM",
+      "videoLink": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "timeStamp": "10/03/2024",
+      "id": 19
     }
   ],
   "category": [
@@ -69,10 +69,10 @@
       "categoryName": "Trailer",
       "allVideos": [
         {
-          "id": "5",
-          "title": "ARM",
-          "imgUrl": "https://www.businessoftollywood.com/wp-content/uploads/2024/01/arm.jpeg",
-          "videoLink": "https://www.youtube.com/embed/B2UBMTA57JI"
+          "id": "1",
+          "title": "KishKindha Kaandam",
+          "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjBkNDMzYzktZjBjMy00ZmU3LTk0MDEtNzAzNGFjMGE4MDQyXkEyXkFqcGc@._V1_.jpg",
+          "videoLink": "https://www.youtube.com/embed/n30gf3Gz4Ok"
         }
       ]
     }
